@@ -1,7 +1,7 @@
 # zshrc
 My minimalist zsh prompt.
 
-- Case insensitive autocomplete
+- Case insensitive autocomplete.
 - Prompt indicates if in a git repo, if the repo is dirty, and the branch if non-master.
 - A few aliases to save some keystrokes.
 
